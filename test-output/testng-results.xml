@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2668" started-at="2021-03-14T05:19:42Z" finished-at="2021-03-14T05:19:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2668" started-at="2021-03-14T05:19:42Z" finished-at="2021-03-14T05:19:45Z">
+      <class name="sanity.TC_1_Get_Request_Weather">
+        <test-method status="PASS" signature="getWeatherDetails()[pri:0, instance:sanity.TC_1_Get_Request_Weather@3e6fa38a]" name="getWeatherDetails" duration-ms="2649" started-at="2021-03-14T05:19:42Z" finished-at="2021-03-14T05:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- sanity.TC_1_Get_Request_Weather -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
